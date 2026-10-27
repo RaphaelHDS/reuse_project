@@ -1,0 +1,32 @@
+# =====================================================================
+# pubspec.yaml do APP ReUse (Flutter)
+# Diz o nome do app e quais pacotes ele usa.
+# Depois de mexer aqui, rode: flutter pub get
+# =====================================================================
+name: reuse_app
+description: "ReUse - plataforma para reaproveitamento de materiais."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.2.2               # conversa com a API (pedidos GET, POST...)
+  shared_preferences: ^2.3.2 # guarda o login e o endereço do servidor
+  image_picker: ^1.1.2       # tirar foto ou escolher da galeria
+  geolocator: ^14.0.0        # pega a localização (GPS)
+  flutter_map: ^8.2.0        # mapa (OpenStreetMap, sem precisar de chave)
+  latlong2: ^0.9.1           # tipo LatLng (latitude e longitude) usado no mapa
+  url_launcher: ^6.3.0       # abre o WhatsApp
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0      # dicas de boas práticas no VS Code
+
+flutter:
+  uses-material-design: true

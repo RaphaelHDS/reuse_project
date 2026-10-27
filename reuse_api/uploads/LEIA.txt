@@ -1,0 +1,2 @@
+As fotos dos anúncios enviadas pelo app são salvas nesta pasta pela API.
+Pode apagar as fotos daqui se quiser "limpar" (mas importe o reuse_banco.sql de novo).
