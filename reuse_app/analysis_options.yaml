@@ -1,0 +1,7 @@
+# Regras de "boas práticas" que o VS Code usa para dar dicas no código.
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - web/**
+include: package:flutter_lints/flutter.yaml
