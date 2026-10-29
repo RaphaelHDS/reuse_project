@@ -6,7 +6,7 @@
 #
 
 ### O passo a passo COMPLETO (com imagens) está no arquivo:
-- Guia_ReUse_Passo_a_Passo.pdf
+- [Baixar ou visualizar o documento em PDF](./Guia_ReUse_Passo_a_Passo.pdf)
 
 ### O QUE TEM AQUI
 - banco_de_dados/  -> reuse_banco.sql (importar no phpMyAdmin do XAMPP)
