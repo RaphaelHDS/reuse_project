@@ -5,6 +5,18 @@
 ### Projeto acadêmico - Engenharia de Software - UMC 2026
 #
 
+### Integrantes:
+  Raphael Henrique dos Santos................11251101602
+  Kaynan Henrique de Souza Marques...........11251100298
+  Enzo de Campos Cortês......................11251101342
+  Miguel Kenzo Oguiura Tanaka................11251102095
+  Vinicius Eduardo Quintino Filomeno.........11251102274
+
+### DESCRIÇÃO:
+  Plataforma digital de economia circular que conecta pessoas, empresas e instituições para facilitar a doação, a troca e a comercialização de materiais reutilizáveis, promovendo a redução de resíduos, o consumo responsável e o uso eficiente de recursos.
+
+![Imagens da Tela](./img/app_screens.png)
+
 ### O passo a passo COMPLETO (com imagens) está no arquivo:
 - [Baixar ou visualizar o documento em PDF](./Guia_ReUse_Passo_a_Passo.pdf)
 
