@@ -6,11 +6,11 @@
 #
 
 ### Integrantes:
-  Raphael Henrique dos Santos................11251101602
-  Kaynan Henrique de Souza Marques...........11251100298
-  Enzo de Campos Cortês......................11251101342
-  Miguel Kenzo Oguiura Tanaka................11251102095
-  Vinicius Eduardo Quintino Filomeno.........11251102274
+  Raphael Henrique dos Santos................11251101602<br>
+  Kaynan Henrique de Souza Marques...........11251100298<br>
+  Enzo de Campos Cortês......................11251101342<br>
+  Miguel Kenzo Oguiura Tanaka................11251102095<br>
+  Vinicius Eduardo Quintino Filomeno.........11251102274<br>
 
 ### DESCRIÇÃO:
   Plataforma digital de economia circular que conecta pessoas, empresas e instituições para facilitar a doação, a troca e a comercialização de materiais reutilizáveis, promovendo a redução de resíduos, o consumo responsável e o uso eficiente de recursos.
