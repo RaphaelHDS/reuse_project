@@ -26,22 +26,22 @@
 - reuse_app/       -> App em Flutter (abrir no VS Code)
 
 ### RESUMO RÁPIDO (depois de tudo instalado)
-  1) XAMPP: clicar em Start no MySQL
+  1) XAMPP: clicar em Start no MySQL<br>
      (na 1ª vez: importar banco_de_dados/reuse_banco.sql no phpMyAdmin)
 
-  2) VS Code com a pasta reuse_api, no terminal:
+  2) VS Code com a pasta reuse_api, no terminal:<br>
         dart pub get                 (só na 1ª vez)
         dart run bin/server.dart
 
-  3) Outra janela do VS Code com a pasta reuse_app, no terminal:
+  3) Outra janela do VS Code com a pasta reuse_app, no terminal:<br>
         flutter create . --platforms=android,web --org br.umc.reuse   (só na 1ª vez)
         flutter run -d chrome        (no Chrome)
         flutter run                  (no celular Android pelo cabo USB)
         flutter build apk --release  (gera o instalador .apk)
 
-CONTAS DE TESTE (senha de todas: 123456)
-  ana@reuse.com  |  marcenaria@reuse.com  |  escola@reuse.com
-  | confeccao@reuse.com  |  carlos@reuse.com
+CONTAS DE TESTE (senha de todas: 123456)<br>
+  ana@reuse.com  |  marcenaria@reuse.com  |  escola@reuse.com<br>
+  | confeccao@reuse.com  |  carlos@reuse.com<br>
 
-Requisitos: Flutter 3.35 ou mais novo (recomendado o mais recente),
+Requisitos: Flutter 3.35 ou mais novo (recomendado o mais recente),<br>
 XAMPP (MySQL), VS Code com as extensões Dart e Flutter.
