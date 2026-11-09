@@ -30,13 +30,13 @@
      (na 1ª vez: importar banco_de_dados/reuse_banco.sql no phpMyAdmin)
 
   2) VS Code com a pasta reuse_api, no terminal:<br>
-        dart pub get                 (só na 1ª vez)
+        dart pub get                 (só na 1ª vez)<br>
         dart run bin/server.dart
 
   3) Outra janela do VS Code com a pasta reuse_app, no terminal:<br>
-        flutter create . --platforms=android,web --org br.umc.reuse   (só na 1ª vez)
-        flutter run -d chrome        (no Chrome)
-        flutter run                  (no celular Android pelo cabo USB)
+        flutter create . --platforms=android,web --org br.umc.reuse   (só na 1ª vez)<br>
+        flutter run -d chrome        (no Chrome)<br>
+        flutter run                  (no celular Android pelo cabo USB)<br>
         flutter build apk --release  (gera o instalador .apk)
 
 CONTAS DE TESTE (senha de todas: 123456)<br>
